@@ -6,3 +6,4 @@ apt-get install git
 git clone https://github.com/Mr-Thirteen-13/Bukashop
 cd Bukashop
 python -m pip install requests click
+python bukashop.py
